@@ -6,6 +6,6 @@ object algoritmo {
 }
 
 object buenosAires {}
-object cordoba {}
+object mendoza {}
 
 
