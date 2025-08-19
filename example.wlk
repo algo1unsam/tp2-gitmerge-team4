@@ -1,11 +1,15 @@
 object algoritmo {
-  
-  method color() { 
-    return "Rojo Oscuro"
-    }
+  method color() = "Violeta"
 }
 
-object buenosAires {}
-object mendoza {}
+object buenosAires {
+  
+}
 
+object mendoza {
+  
+}
 
+object Misiones {
+  
+}
