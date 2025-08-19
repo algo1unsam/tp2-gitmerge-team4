@@ -9,4 +9,6 @@ object buenosAires {}
 object mendoza {}
 object cordoba {}
 
-
+object Misiones {
+  
+}
